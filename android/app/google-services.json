@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "420474423949",
+    "project_id": "homeservicefinder-f71d8",
+    "storage_bucket": "homeservicefinder-f71d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420474423949:android:1f90af530c720d35ddf0c4",
+        "android_client_info": {
+          "package_name": "com.example.homeservicefinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420474423949-v2324niokd6n833qbg723isdp6lv5369.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcs_BW9ENU4DAuWhMowJuwEFoacZ2FO8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420474423949-v2324niokd6n833qbg723isdp6lv5369.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
